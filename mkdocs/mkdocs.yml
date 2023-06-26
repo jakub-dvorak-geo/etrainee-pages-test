@@ -35,5 +35,5 @@ nav:
 - 'Home': 'index.md'
 - 'Module TEST' : 
     - 'lesson' : 'test/subpage.md'
-    - '2nd subpage': 'test/subpage2.md'
+    - 'second subpage': 'test/subpage2.md'
     
