@@ -37,4 +37,4 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install --upgrade pip && pip install -U mkdocs mkdocs-jupyter jupyter_contrib_nbextensions
-      - run: mkdocs build -f mkdocs/mkdocs.yml --force --strict --clean --site-dir ../site
+      - run: mkdocs build -f mkdocs/mkdocs.yml --strict --clean --site-dir ../site
