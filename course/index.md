@@ -19,6 +19,7 @@ Follow the links for more information on specific prerequisites and recommendati
 
 This module uses <type of data, e.g. Sentinel images> from the use case [<name>](link-to-general-description in module0).
 
+Changing contents of the file
 
 ### Next unit
 Proceed with [1st subpage](test/subpage.md).
