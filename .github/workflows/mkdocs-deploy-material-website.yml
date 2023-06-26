@@ -29,4 +29,5 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install --upgrade pip && pip install -U mkdocs mkdocs-jupyter jupyter_contrib_nbextensions
+      - run: git config user.name 'github-actions[bot]' && git config user.email 'github-actions[bot]@users.noreply.github.com
       - run: mkdocs gh-deploy --config-file mkdocs/mkdocs.yml --force --strict --clean
