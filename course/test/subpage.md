@@ -51,7 +51,7 @@ Describe what is a spectral library, describe a a few existing libraries, how to
 
 ## Self-evaluation quiz
 
-<form action="" method="post" onsubmit="evaluate_quiz(); return false">
+<form name="quiz" action="" method="post" onsubmit="evaluate_quiz(); return false">
 
 <!--Question 1-->
 <label for="q_01">
