@@ -1,10 +1,9 @@
-# This is the E-TRAINEE GitHub CI/CD configuration file.
+# This is the E-TRAINEE GitHub Actions configuration file.
 #
 # A pipeline is composed of independent jobs that run scripts, grouped into stages.
 # Stages run in sequential order, but jobs within stages run in parallel.
-#
 
-name: mkdocs-deploy-based-on-material-website
+name: deploy_to_gh-pages
 
 on:
   push:
