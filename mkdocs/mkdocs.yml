@@ -34,5 +34,5 @@ extra_javascript:
 nav:
 - 'Home': 'index.md'
 - 'Module TEST' : 
-    - 'lesson' : 'test/subpage.md'
+    - 'first subpage' : 'test/subpage.md'
     - 'second subpage': 'test/subpage2.md'
