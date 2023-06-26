@@ -36,4 +36,3 @@ nav:
 - 'Module TEST' : 
     - 'lesson' : 'test/subpage.md'
     - 'second subpage': 'test/subpage2.md'
-    
